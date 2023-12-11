@@ -1,0 +1,6 @@
+{
+  "DashboardPageLoctors": {
+    "showfulldashboard_text": ".absolute > .transition-all",
+    "leads_text": ":nth-child(5) > .gap-2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "LoginPageLoctors": {
+    "email_text": ":nth-child(1) > .flex-col > .rounded-md",
+    "password_text": ".relative > .px-4",
+    "CheckBox_text": ".justify-between > div.flex > .flex > input",
+    "LoginButton_text": ".opacity-100"
+  }
+}

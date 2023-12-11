@@ -1,0 +1,13 @@
+{
+  "ImagesPageLocators": {
+    "email_text": ".flex-col > .outline-none",
+    "passwords_text": ".relative > .outline-none",
+    "checkBox_text": ".justify-between > div.flex > .flex > input",
+    "loginButton_text": ".opacity-100",
+    "dashboardClick_text": ".absolute > .transition-all",
+    "selectMediaDashboard_text": ":nth-child(3) > .gap-2",
+    "uploadMediaButton_text": ".w-fit > .font-semibold",
+    "uploadMediaFile_text": ".custom-file-input",
+    "fileupload_text": ""
+  }
+}

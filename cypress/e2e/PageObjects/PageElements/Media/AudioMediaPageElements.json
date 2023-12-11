@@ -1,0 +1,16 @@
+{
+  "AudioPageLocators": {
+    "email_text": ".flex-col > .outline-none",
+    "passwords_text": ".relative > .outline-none",
+    "checkBox_text": ".justify-between > div.flex > .flex > input",
+    "loginButton_text": ".opacity-100",
+    "dashboardClick_text": ".absolute > .transition-all",
+    "selectMediaDashboard_text": ".mt-6 > :nth-child(3) > .gap-2",
+    "uploadMediaButton_text": ".w-fit > .font-semibold",
+    "uploadMediaFile_text": ".custom-file-input",
+    "fileUploadButton_text": ".w-full.items-center.gap-2 > .text-white",
+    "actionsBox_text": ".text-neutral-600 > :nth-child(1) > .flex > :nth-child(1)",
+    "renameTextField_text": ".flex-col.w-full > .outline-none",
+    "renameButton_text": ".md\\:flex-row > .text-white"
+  }
+}

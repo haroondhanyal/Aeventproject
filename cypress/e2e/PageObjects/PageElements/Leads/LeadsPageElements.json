@@ -1,0 +1,18 @@
+{
+  "LeadsPageLocators": {
+    "banAction_text": "#banLead-icon-1",
+    "banButton_text": "#banEmailModal-banButton",
+    "actionBan2_text": "#banLead-icon-2",
+    "cancelButton_text": "#banEmailModal-cancelButton",
+    "banButtonAction_text": "#leads-banEmail-button",
+    "banButtonSearchField_text": "#banEmailModal-emailInput",
+    "banButtonOFMainBan_text": "#banEmailModal-banButton",
+
+    "actionDelete_text": "#deleteLead-icon-3 > svg",
+    "popupDelete_text": "#deleteButton",
+    "banEmailButton_text": "#leads-banEmail-button",
+    "searchButton_text": "#leads-searchInput",
+    "clearSearchField_text": "#leads-searchInput",
+    "checkFieldEmpty_text": "#leads-searchInput"
+  }
+}
